@@ -1,4 +1,4 @@
-streamlit
+PyQt5
 pandas
 openpyxl
 reportlab
